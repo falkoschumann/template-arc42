@@ -1,46 +1,31 @@
 <?xml version="1.0"?>
 <section xmlns="http://docbook.org/ns/docbook" version="5.0">
-    <title>Blackbox-Template</title>
-    <section>
-        <title>Name</title>
-        <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-            et dolore magna aliquyam erat, sed diam voluptua.
-        </para>
-    </section>
-    <section>
-        <title>Zweck / Verantwortlichkeit</title>
-        <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-            et dolore magna aliquyam erat, sed diam voluptua.
-        </para>
-    </section>
-    <section>
-        <title>Schnittstellen</title>
-        <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-            et dolore magna aliquyam erat, sed diam voluptua.
-        </para>
-    </section>
-    <section>
-        <title>Ablageort / Datei</title>
-        <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-            et dolore magna aliquyam erat, sed diam voluptua.
-        </para>
-    </section>
-    <section>
-        <title>Erfüllte Anforderungen</title>
-        <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-            et dolore magna aliquyam erat, sed diam voluptua.
-        </para>
-    </section>
-    <section>
-        <title>Variabilität</title>
-        <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-            et dolore magna aliquyam erat, sed diam voluptua.
-        </para>
-    </section>
-    <section>
-        <title>Offene Punkte</title>
-        <para>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
-            et dolore magna aliquyam erat, sed diam voluptua.
-        </para>
-    </section>
+    <title>Name (Blackbox)</title>
+    <bridgehead>Zweck / Verantwortlichkeit</bridgehead>
+    <para></para>
+    <bridgehead>Schnittstellen</bridgehead>
+    <informaltable>
+        <tgroup cols="2">
+            <thead>
+                <row>
+                    <entry>Name der Schnittstelle</entry>
+                    <entry>Beschreibung</entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry></entry>
+                    <entry></entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </informaltable>
+    <bridgehead>Ablageort / Datei</bridgehead>
+    <para></para>
+    <bridgehead>Erfüllte Anforderungen</bridgehead>
+    <para></para>
+    <bridgehead>Variabilität</bridgehead>
+    <para></para>
+    <bridgehead>Offene Punkte</bridgehead>
+    <para></para>
 </section>
