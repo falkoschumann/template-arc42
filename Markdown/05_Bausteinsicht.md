@@ -21,7 +21,7 @@ Ebene 2
 
 ### Baustein 1 (Whitebox)
 
-![Abbildung Whitebox Baustein 1](Abbildungen/Whitebox_Baustein_1.png)
+![Abbildung Whitebox Bausteinname](Abbildungen/Whitebox_Bausteinname.png)
 
 
 #### Baustein 1.1 (Blackbox)

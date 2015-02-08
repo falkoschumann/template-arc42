@@ -1,5 +1,5 @@
 Entwurfsentscheidungen
 ======================
 
-Entwurfsentscheidungen 1
-------------------------
+Entwurfsentscheidung 1
+----------------------
