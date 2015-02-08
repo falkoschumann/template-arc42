@@ -44,7 +44,7 @@
             <informaltable>
                 <tgroup cols="2">
                     <colspec colnum="1" colwidth="382*"/>
-                    <colspec colnum="2" colwidth="618"/>
+                    <colspec colnum="2" colwidth="618*"/>
                     <thead>
                         <row>
                             <entry>Ziel</entry>
@@ -67,7 +67,7 @@
             <informaltable>
                 <tgroup cols="2">
                     <colspec colnum="1" colwidth="382*"/>
-                    <colspec colnum="2" colwidth="618"/>
+                    <colspec colnum="2" colwidth="618*"/>
                     <thead>
                         <row>
                             <entry>Rolle</entry>
@@ -93,7 +93,7 @@
             <informaltable>
                 <tgroup cols="2">
                     <colspec colnum="1" colwidth="382*"/>
-                    <colspec colnum="2" colwidth="618"/>
+                    <colspec colnum="2" colwidth="618*"/>
                     <thead>
                         <row>
                             <entry>Randbedingung</entry>
@@ -116,7 +116,7 @@
             <informaltable>
                 <tgroup cols="2">
                     <colspec colnum="1" colwidth="382*"/>
-                    <colspec colnum="2" colwidth="618"/>
+                    <colspec colnum="2" colwidth="618*"/>
                     <thead>
                         <row>
                             <entry>Randbedingung</entry>
@@ -174,7 +174,7 @@
             <informaltable>
                 <tgroup cols="2">
                     <colspec colnum="1" colwidth="382*"/>
-                    <colspec colnum="2" colwidth="618"/>
+                    <colspec colnum="2" colwidth="618*"/>
                     <thead>
                         <row>
                             <entry>Name der Schnittstelle</entry>
